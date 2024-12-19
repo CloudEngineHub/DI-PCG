@@ -44,7 +44,7 @@ def generate(generator, params, seed, mesh_save_path, no_mod=False, no_ground=Tr
     bpy.ops.outliner.orphans_purge()
     gc.collect()
     # configurate infinigen
-    gin.add_config_file_search_path("./third_party/infinigen/infinigen_examples/configs_nature")
+    gin.add_config_file_search_path("configs/infinigen")
     gin.parse_config_files_and_bindings(
         ["configs/infinigen/base.gin"],
         bindings=[],
