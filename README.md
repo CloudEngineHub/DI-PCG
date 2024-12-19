@@ -23,17 +23,16 @@ This repository contains code release for our technical report "DI-PCG: Diffusio
 
 
 ## ⚙️ Installation
-First clone this repository with [Infinigen](https://github.com/princeton-vl/infinigen) as the submodule:
+First clone this repository:
 ```
 git clone -r https://github.com/TencentARC/DI-PCG.git
 cd DI-PCG
-git submodule update --init --recursive
 ```
 We recommend using anaconda to install the dependencies:
 ```
-conda create -n di-pcg python=3.10.14
+conda create -n di-pcg python=3.10.13
 conda activate di-pcg
-conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0  pytorch-cuda=11.8 -c pytorch -c nvidia
+conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0  pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
 
