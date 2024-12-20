@@ -40,7 +40,7 @@ pip install -r requirements.txt
 For a quick start, try the huggingface gradio demo [here](https://huggingface.co/spaces/TencentARC/DI-PCG).
 
 ### Download models
-We provide the pretrained diffusion models for chair, vase, table, basket, flower and dandelion. You can download them from [model card]() and put them in `./pretrained_models/`. 
+We provide the pretrained diffusion models for chair, vase, table, basket, flower and dandelion. You can download them from [model card](https://huggingface.co/TencentARC/DI-PCG) and put them in `./pretrained_models/`. 
 
 Alternatively, the inference script will automatically download the pretrained models for you.
 
