@@ -2,7 +2,7 @@
   
 # DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation
 
-<a href="https://thuzhaowang.github.io/projects/DI-PCG"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href=""><img src="https://img.shields.io/badge/ArXiv-2404.07191-brightgreen"></a>&ensp;<a href="https://huggingface.co/TencentARC/DI-PCG"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>&ensp;<a href="https://huggingface.co/spaces/TencentARC/DI-PCG"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Gradio%20Demo-Huggingface-orange"></a><br>
+<a href="https://thuzhaowang.github.io/projects/DI-PCG"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Github&color=blue&logo=github-pages"></a>&ensp;<a href="http://arxiv.org/abs/2412.15200"><img src="https://img.shields.io/badge/ArXiv-2412.15200-brightgreen"></a>&ensp;<a href="https://huggingface.co/TencentARC/DI-PCG"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model_Card-Huggingface-orange"></a>&ensp;<a href="https://huggingface.co/spaces/TencentARC/DI-PCG"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Gradio%20Demo-Huggingface-orange"></a><br>
 
 **[Wang Zhao<sup>1</sup>](https://thuzhaowang.github.io), [Yan-Pei Cao<sup>2</sup>](https://yanpei.me/), [Jiale Xu<sup>1</sup>](https://bluestyle97.github.io/),  [Yuejiang Dong<sup>1,3</sup>](https://scholar.google.com.hk/citations?user=0i7bPj8AAAAJ&hl=zh-CN), [Ying Shan<sup>1</sup>](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en)**
 
@@ -87,7 +87,7 @@ If you find our work useful for your research or applications, please cite using
 @article{zhao2024dipcg,
   title={DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation},
   author={Zhao, Wang and Cao, Yanpei and Xu, Jiale and Dong, Yuejiang and Shan, Ying},
-  journal={arXiv preprint },
+  journal={arXiv preprint arXiv:2412.15200},
   year={2024}
 }
 ```
