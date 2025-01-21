@@ -75,7 +75,7 @@ python ./scripts/train_diffusion.py --config ./configs/train/chair_train.yaml
 ```
 
 ### Use your own PCG
-DI-PCG is general for any procedural generator. To train a diffusion model for your PCG, you need to implement the `get_params_dict`, `update_params`, `spawn_assets`, `finalize_assets` functions and place your PCG in `./core/assets/`. Also change the `num_params` in your training YAML config file.
+DI-PCG is general for any procedural generator. To train a diffusion model for your PCG, see `./docs/` for detailed instructions.
 
 If you have any question, feel free to open an issue or contact us.
 
