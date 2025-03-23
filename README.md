@@ -9,13 +9,14 @@
 <sup>1</sup>ARC Lab, Tencent PCG &ensp;&ensp;<sup>2</sup>VAST &ensp;&ensp;<sup>3</sup>Tsinghua University
 
 
+**CVPR 2025**
 
 </div>
 
 ---
 
 ## 🚩 Overview
-This repository contains code release for our technical report "DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation".
+This repository contains code release for our CVPR 2025 paper "DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation".
 
 <p align="center">
   <img src="misc/teaser.png" >
